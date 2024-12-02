@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Sana-Rani
+- 👋 Hi, I’m Sanjana Yadav.
 - 👀 I’m interested in Programming.
-- 🌱 I’m currently working as full stack web developer.
+- 🌱 I’m currently working as full sofware engineer at Neelgai.
 - 💞️ I’m looking to collaborate on intership.
 - 📫 How to reach me ...via LinkedIn : https://www.linkedin.com/in/sanjana-yadav-77a93225b/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3B5EXnEBCWQ1OLb1ZVtYRXOw%3D%3D
 
